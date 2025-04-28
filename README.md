@@ -1,5 +1,5 @@
 # Spotify-Clone-Page
-Visit Site: https://jahidajinar.github.io/Spotify-Page-Demo/
+Visit Site: https://jahidajinar.github.io/Spotify-Clone-Page/
 
 These are simple and beginner-friendly mini projects made using only HTML and CSS. They are perfect for those who are just starting out in web development and want to practice layout, styling, and basic page navigation without any JavaScript.
 
